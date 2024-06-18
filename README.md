@@ -1,6 +1,6 @@
 <div align="center"> <h1> WHO Life Expectancy Prediction Model Report</h1> </div>
 <img src="https://data.org/wp-content/uploads/2024/01/WHO_logo.svg" style="width:100%; height:200px; object-fit:cover;" />
-The **objective** of this project was to create a robust predictive model using linear regression with a low margin of error. 
+The objective of this project was to create a robust predictive model using linear regression with a low margin of error. 
 
 ### Table of Contents  
  - 01: Exploratory Data Analysis  
