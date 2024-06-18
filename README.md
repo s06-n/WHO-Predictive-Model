@@ -24,8 +24,8 @@ The linear regression model was created using the following steps:
 Key Results:
 - Basic Model: Using the training data, life expectancy is accurately predicted within 2.79 years.
 - Basic Model: Using the test data, life expectancy is accurately predicted within 2.69 years.
-- Optimised Model: Using the training data, life expectancy is accurately predicted within 1.24 years
-- Optimised Model: Using the test data, life expectancy is accurately predicted within 1.21 years
+- Optimised Model: Using the training data, life expectancy is accurately predicted within 1.24 years,
+- Optimised Model: Using the test data, life expectancy is accurately predicted within 1.21 years.
 - Basic Model had an excellent condition number (19.7) indicating very low levels of collinearity in the modelling and general numerical issues.
 - Optimised model had a excellent condition number with a value of 22.5.
 
